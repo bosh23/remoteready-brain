@@ -12,6 +12,13 @@ Use this repo as the source of truth for any Remote Ready work: posts, carousels
 - `marketing-strategy.md` – principles, funnel, channels, content pillars, rhythm per push, what we measure.
 - `launch-plan.md` – stages, decision signal, growth phases, income math, open flags.
 - `decisions.md` – dated log of positioning decisions. Add a line whenever something changes.
+- `data/`, `dashboards/` – raw metric exports (by date) and generated dashboards. `data/log.csv` is the running trend.
+
+## Skills
+- `/dashboard` (mine): weekly/monthly metrics dashboard from Kit, GA4, Meta and Instagram numbers.
+- Borrowed from coreyhaines31/marketingskills (MIT, commit 0cd9b3a), for the things I don't do every day: `analytics`, `conversion-tracking`, `ab-testing`, `ads`, `attribution`, `cro`, `customer-research`. They read `.claude/product-marketing.md`, which points to the files above.
+- Copywriting, storytelling and content are mine. Don't install generic copy or social skills here; follow `voice-messaging.md` instead.
+- When a borrowed skill's advice conflicts with this repo (voice, small budgets, trust-first), this repo wins.
 
 ## Where things live
 - **This repo:** strategy that changes rarely. Edit here first.
